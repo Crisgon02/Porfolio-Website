@@ -40,10 +40,8 @@ export const Languages = () => {
                             <div className="item">
     
                                 <h5>GitHub</h5>
+                
                           
-                            </div>
-                            <div className="item">
-                                  <h5>React.JS</h5>
                             </div>
                             <div className="item">
                                
